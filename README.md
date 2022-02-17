@@ -1,2 +1,5 @@
-# cbn
-color by number
+# CBN
+Color by number.
+
+# License 
+See [LICENSE](LICENSE).
